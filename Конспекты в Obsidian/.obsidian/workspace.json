@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "321ceef5bb5ea9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "771a050b79852465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e856f1c59f0e2221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информатика/Системы счисления.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd99f321a49c5549",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b2e9b230572edac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd525f82be6a6c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dba5aacd61f96f84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ac5a02e7ac003a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "79349f9fbf2243b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bac207562a0eb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565aa2bd0540bc86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Информатика/Системы счисления.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2271fe0fb2833bb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Информатика/Системы счисления.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d63cd2063b98a06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c356755b1e27c7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Информатика/Системы счисления.md"
+              }
+            }
+          },
+          {
+            "id": "835fc2b81fa4a031",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "e856f1c59f0e2221",
+  "lastOpenFiles": [
+    "Информатика/Системы счисления.md",
+    "Без названия 1.canvas",
+    "Основы информационных технологий/Устройство компьютера/Шина pci e.md",
+    "Основы информационных технологий/Устройство компьютера/Процессор(CPU).md",
+    "Основы информационных технологий/Устройство компьютера/Операционная система.md",
+    "Основы информационных технологий/Устройство компьютера/Видеокарта.md",
+    "Основы информационных технологий/Устройство компьютера/Базовое устройство компьютера (схема).md",
+    "Основы информационных технологий/Устройство компьютера",
+    "Основы информационных технологий/Без названия.md",
+    "Основы информационных технологий",
+    "Люди/Колмогоров Андрей Николаевич.md",
+    "Люди/Клод Шеннон Элвуд.md",
+    "Люди",
+    "Информатика/Измерение информации/Шенноновская энтропия.md",
+    "Информатика/Измерение информации/Колмогоровская сложность.md",
+    "Информатика/Измерение информации",
+    "Информатика",
+    "Индивидуальный проект/Разделение проекта на этапы.canvas",
+    "Индивидуальный проект/План проекта.md",
+    "Индивидуальный проект",
+    "Введение в специальность/Гибкие методологии проектирования.md",
+    "Введение в специальность/Без названия.canvas",
+    "Введение в специальность/IT - профессия.md",
+    "Введение в специальность/HTML.md",
+    "Введение в специальность/CSS.md",
+    "Безымянная Kanban-доска.md",
+    "Python/Без названия/Цикл for.md",
+    "Python/функции.md",
+    "Python/Списки.md",
+    "Python/Без названия",
+    "Python",
+    "Pasted image 20240918113210.jpg",
+    "Pasted image 20240918112946.jpg",
+    "Введение в специальность/Оформление программной документации.md",
+    "Введение в специальность",
+    "Без названия.canvas",
+    "Без названия.md",
+    "Люди/Pasted image 20240918112912.jpg",
+    "Люди/Колмогоров Андрей Николаевич.jpg",
+    "Информатика/Люди.md",
+    "2024-09-18.md",
+    "Введение в специальность.md"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "22cda4b2716c5d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5495fbf00f3a4c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8971af46768b0eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed683570d7f37607",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27c12793a8e943d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540678f18912c317",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "13fe84552bd9eb83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "42176264a10052ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d6fb020f68e564b",
+    "type": "split",
+    "children": [
+      {
+        "id": "290a4c777c98bda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa4963a53e826ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Конспекты в Obsidian/Введение в специальность/Оформление программной документации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Оформление программной документации"
+            }
+          },
+          {
+            "id": "96dd406aa470106c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Конспекты в Obsidian/Введение в специальность/Оформление программной документации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Оформление программной документации"
+            }
+          },
+          {
+            "id": "a5ec9cda43953ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e5cbc4a9832663f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Конспекты в Obsidian/Введение в специальность/Оформление программной документации.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Оформление программной документации"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a8971af46768b0eb",
+  "lastOpenFiles": [
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера/Шина pci e.md",
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера/Процессор(CPU).md",
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера/Операционная система.md",
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера/Видеокарта.md",
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера/Базовое устройство компьютера (схема).md",
+    "Конспекты в Obsidian/Основы информационных технологий/Устройство компьютера",
+    "Конспекты в Obsidian/Основы информационных технологий/Без названия.md",
+    "Конспекты в Obsidian/Основы информационных технологий",
+    "Конспекты в Obsidian/Люди/Колмогоров Андрей Николаевич.md",
+    "Конспекты в Obsidian/Люди/Клод Шеннон Элвуд.md",
+    "Конспекты в Obsidian/Люди",
+    "Конспекты в Obsidian/Информатика/Измерение информации/Шенноновская энтропия.md",
+    "Конспекты в Obsidian/Информатика/Измерение информации/Колмогоровская сложность.md",
+    "Конспекты в Obsidian/Информатика/Системы счисления.md",
+    "Конспекты в Obsidian/Информатика/Измерение информации",
+    "Конспекты в Obsidian/Информатика",
+    "Конспекты в Obsidian/Индивидуальный проект/Разделение проекта на этапы.canvas",
+    "Конспекты в Obsidian/Индивидуальный проект/План проекта.md",
+    "Конспекты в Obsidian/Индивидуальный проект",
+    "Конспекты в Obsidian/Введение в специальность/Оформление программной документации.md",
+    "Конспекты в Obsidian/Введение в специальность/Гибкие методологии проектирования.md",
+    "Конспекты в Obsidian/Введение в специальность/Без названия.canvas",
+    "Конспекты в Obsidian/Введение в специальность/IT - профессия.md",
+    "Конспекты в Obsidian/Введение в специальность/HTML.md",
+    "Конспекты в Obsidian/Введение в специальность/CSS.md",
+    "Конспекты в Obsidian/Введение в специальность",
+    "Конспекты в Obsidian/Python/Без названия/Цикл for.md",
+    "Конспекты в Obsidian/Python/Без названия",
+    "Конспекты в Obsidian/Python/функции.md",
+    "Конспекты в Obsidian/Python/Списки.md",
+    "Конспекты в Obsidian/Python",
+    "Конспекты в Obsidian/Безымянная Kanban-доска.md",
+    "Конспекты в Obsidian/Без названия.canvas",
+    "Конспекты в Obsidian/Без названия 1.canvas",
+    "Конспекты в Obsidian/Pasted image 20240918113210.jpg",
+    "Конспекты в Obsidian/Pasted image 20240918112946.jpg",
+    "Конспекты в Obsidian"
+  ]
+}
